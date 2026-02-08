@@ -15,7 +15,7 @@ while True:
     
     if guess > number:
         print('Ваше число больше того, что загадано.')
-    print('fdв')
+    print('fdff')
     # Если число угадано...
     if guess == number:
         # ...прерываем выполнение программы и...
